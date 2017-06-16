@@ -1,1 +1,2 @@
 Hi, git!
+git pull A.txt modify
